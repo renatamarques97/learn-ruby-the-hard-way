@@ -81,7 +81,8 @@ ruby ex19.rb
 ```
 #### chapter 20
 ```
-ruby ex20.rb
+ruby ex20-refactored.rb file.txt
+ruby ex20.rb file.txt
 ```
 #### chapter 21
 ```
@@ -89,11 +90,11 @@ ruby ex21.rb
 ```
 #### chapter 22
 ```
-ruby ex22.rb
+list of commands
 ```
 #### chapter 23
 ```
-ruby ex23.rb
+find a project and look at it
 ```
 #### chapter 24
 ```
