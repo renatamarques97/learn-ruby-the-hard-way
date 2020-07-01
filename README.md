@@ -1,6 +1,9 @@
 # Exercices from book Learn Ruby the Hard Way by Zed A. Shaw and Rob Sobers
 
 #### chapter 1
+```shell
+ruby ex1.rb
+```
 #### chapter 2
 #### chapter 3
 #### chapter 4
