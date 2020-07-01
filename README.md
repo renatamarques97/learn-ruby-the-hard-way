@@ -1,10 +1,13 @@
 # Exercices from book Learn Ruby the Hard Way by Zed A. Shaw and Rob Sobers
 
 #### chapter 1
-```shell
+```
 ruby ex1.rb
 ```
 #### chapter 2
+```
+ruby ex2.rb
+```
 #### chapter 3
 #### chapter 4
 #### chapter 5
@@ -22,7 +25,7 @@ ruby ex1.rb
 #### chapter 16
 
 #### chapter 17
-```shell
+```
 ruby ex17-refactored.rb from.txt to.txt
 ruby ex17.rb from.txt to.txt
 ```
