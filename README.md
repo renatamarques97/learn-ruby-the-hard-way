@@ -9,6 +9,9 @@ ruby ex1.rb
 ruby ex2.rb
 ```
 #### chapter 3
+```
+ruby ex3.rb
+```
 #### chapter 4
 #### chapter 5
 #### chapter 6
