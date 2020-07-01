@@ -13,6 +13,9 @@ ruby ex2.rb
 ruby ex3.rb
 ```
 #### chapter 4
+```
+ruby ex4.rb
+```
 #### chapter 5
 #### chapter 6
 #### chapter 7
