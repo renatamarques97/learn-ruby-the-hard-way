@@ -29,8 +29,12 @@ puts "Age: #{age}, Height: #{height}, Weight: #{weight}, IQ: #{iq}"
 puts "Here is a puzzle."
 what = add(age, subtract(height, multiply(weight, divide(iq, 2))))
 puts "That becomes: #{what} Can you do it by hand?"
+
+#Extra Credit
 # (35 + (74 - (180 * (50 / 2)))
 # (35 + (74 - (180 * 25)))
 # (35 + (74 - (4500)))
 # (35 + (-4426))
 # -4391
+new_what = age + height - weight * iq / 2
+puts "Refactored becomes: #{new_what}"
