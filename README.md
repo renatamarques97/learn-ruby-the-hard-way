@@ -1,4 +1,4 @@
-## Exercices from book Learn Ruby the Hard Way by Zed A. Shaw and Rob Sobers
+## Exercises from book Learn Ruby the Hard Way by Zed A. Shaw and Rob Sobers
 
 ### To execute the script, enter in the respective folder e.g. `cd 1/`
 
@@ -52,7 +52,7 @@ ruby ex12.rb
 ```
 #### chapter 13
 ```
-ruby ex13.rb
+ruby ex13.rb first 2nd 3rd
 ```
 #### chapter 14
 ```
@@ -60,11 +60,12 @@ ruby ex14.rb
 ```
 #### chapter 15
 ```
-ruby ex15.rb
+ruby ex15.rb ex15.txt
 ```
 #### chapter 16
 ```
-ruby ex16.rb
+ruby ex16-refactored.rb
+ruby ex16.rb ex16.txt
 ```
 #### chapter 17
 ```
@@ -102,35 +103,36 @@ ruby ex24.rb
 ```
 #### chapter 25
 ```
-ruby ex1.rb
+irb
+require './ex25'
 ```
 #### chapter 26
 ```
-ruby ex1.rb
+not found
 ```
 #### chapter 27
 ```
-ruby ex1.rb
+memorize truth tables
 ```
 #### chapter 28
 ```
-ruby ex1.rb
+boolean practice
 ```
 #### chapter 29
 ```
-ruby ex1.rb
+ruby ex29.rb
 ```
 #### chapter 30
 ```
-ruby ex1.rb
+ruby ex30.rb
 ```
 #### chapter 31
 ```
-ruby ex1.rb
+ruby ex31.rb
 ```
 #### chapter 32
 ```
-ruby ex1.rb
+ruby ex32.rb
 ```
 #### chapter 33
 ```
