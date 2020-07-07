@@ -136,23 +136,26 @@ ruby ex32.rb
 ```
 #### chapter 33
 ```
-ruby ex1.rb
+ruby ex33.rb
 ```
 #### chapter 34
 ```
-ruby ex1.rb
+ruby ex34.rb
 ```
 #### chapter 35
 ```
-ruby ex1.rb
+ruby ex35.rb
 ```
 #### chapter 36
 ```
-ruby ex1.rb
+ruby ex36.rb
 ```
 #### chapter 37
 ```
-ruby ex1.rb
+[essential](https://gist.github.com/renatamarques97/f319ebbbb580575d3c7262a0cea0d0b4)
+[escapes](https://gist.github.com/renatamarques97/692a48a0da309bf42805bcc7fb011021)
+[operators](https://gist.github.com/renatamarques97/b05071c3f34cecfdfa63af09ebfce50e)
+[data types](https://gist.github.com/renatamarques97/99f7197e9c9b8ee6373e598fddec678f)
 ```
 #### chapter 38
 ```
